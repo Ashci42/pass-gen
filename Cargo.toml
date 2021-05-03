@@ -1,0 +1,3 @@
+[workspace]
+
+members = ["pass_gen_core", "passgen"]
